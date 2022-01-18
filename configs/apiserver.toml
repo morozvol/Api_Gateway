@@ -1,0 +1,5 @@
+bind_addr = ":8080"
+log_level = "debug"
+jwt_key = "5u8x/A?D(G+KaPdSgVkYp3s6v9y$B&E)"
+authservice_addr = "localhost:8050"
+
